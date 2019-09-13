@@ -31,5 +31,5 @@ The content will not be disclosed in an identifiable manner. <br>
 However, the contents may be disclosed in the “Frequently Asked Questions” or “Disability Announcement”.
 
 
-* If you have any questions, please feel free to contact us. <br>
+*If you have any questions, please feel free to contact us. <br>
 lisknonanika@gmail.com
