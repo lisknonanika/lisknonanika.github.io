@@ -14,3 +14,22 @@ lisknonanikaが開発を行う全てのアプリおよびサービスでは、<b
 
 ※ご不明な点があれば、お気軽にお問い合わせください。<br>
 lisknonanika@gmail.com
+
+---
+
+## privacy policy
+
+### Information collection as a function
+For all apps and services developed by lisknonanika, <br>
+Access log is acquired when communicating with the server. <br>
+This is for use in the event of a failure or for maintenance <br>
+It does not contain any personally identifiable information.
+
+### About inquiries and trouble reports
+If you report an inquiry or failure via e-mail etc. <br>
+The content will not be disclosed in an identifiable manner. <br>
+However, the contents may be disclosed in the “Frequently Asked Questions” or “Disability Announcement”.
+
+
+* If you have any questions, please feel free to contact us. <br>
+lisknonanika@gmail.com
