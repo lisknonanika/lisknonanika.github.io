@@ -17,7 +17,7 @@
 
 ### 履歴画面
 - サインインしたことのあるアカウントがリスト表示されます
-![image](https://user-images.githubusercontent.com/44485074/135387601-7569fd90-94ff-4b65-ac63-a3dd145c7c7e.png)
+![image](https://user-images.githubusercontent.com/44485074/135437471-cb910d71-293e-4f37-b812-48d14aee9524.png)
 
 ### 複数署名画面
 - 複数署名が必要なトランザクション文字列を入力し、複数署名処理を開始できます
