@@ -30,7 +30,7 @@
 ### アカウント情報画面
 - サインインしたアカウントの情報が確認できます
 - アカウント情報とトランザクションの情報は横スワイプで切り替えられます
-![image](https://user-images.githubusercontent.com/44485074/135395569-acc0bc8b-fff8-4a43-8cb0-4f547a2f3387.png)
+![image](https://user-images.githubusercontent.com/44485074/135396232-8c96902f-6573-42f2-a216-43e7a2b0b38c.png)
 
 ### 送信内容入力画面
 - 送信内容を入力します
