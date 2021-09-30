@@ -24,7 +24,7 @@
 
 ### Setting
 - You can configure the network and explorer to be used.
-![image](https://user-images.githubusercontent.com/44485074/135393674-ff3b3e61-3ea5-4010-ba91-22864126419d.png)
+![image](https://user-images.githubusercontent.com/44485074/135420407-7c69f948-eea9-4639-9763-8fa9eb744a5b.png)
 
 ### Account Info
 - You can see the information of the account you signed in.
