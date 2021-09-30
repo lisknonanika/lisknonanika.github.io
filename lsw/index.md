@@ -31,4 +31,4 @@ Also, we are not responsible for any problems that may occur when using the appl
 
 ## Modification and redistribution of the application
 Please do so under the responsibility of the modifier/redistributor.<br/>
-We assume no responsibility for any modified or redistributed material.
+We assume no responsibility for any modified or redistributed app.
