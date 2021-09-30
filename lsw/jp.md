@@ -30,7 +30,7 @@
 ### アカウント情報画面
 - サインインしたアカウントの情報が確認できます
 - アカウント情報とトランザクションの情報は横スワイプで切り替えられます
-![image](https://user-images.githubusercontent.com/44485074/135387680-53433db9-6447-4ff0-ac9e-f1dcce375168.png)
+![image](https://user-images.githubusercontent.com/44485074/135395327-de41378c-679b-4b89-be10-4dbc00e9e69f.png)
 
 ### 送信内容入力画面
 - 送信内容を入力します
@@ -38,7 +38,7 @@
 
 ### マルチシグネチャメンバー選択画面
 - マルチシグネチャメンバーを選択し、トランザクションに署名します
-![image](https://user-images.githubusercontent.com/44485074/135387793-988d7fc1-e952-4450-a227-43d8ddb6fa7d.png)
+![image](https://user-images.githubusercontent.com/44485074/135395376-a009af31-6bb1-4706-8fd2-a44ac1c21026.png)
 
 ### 送信中画面
 - トランザクションを送信します
