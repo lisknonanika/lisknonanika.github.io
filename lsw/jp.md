@@ -1,2 +1,8 @@
 # Lisk Simple Wallet
-![image](https://user-images.githubusercontent.com/44485074/135372868-b7d8d8f2-e5f7-4940-a090-f1d800de099f.png)
+
+## ユーザーガイド
+
+### サインイン画面
+- パスフレーズを入力してLiskアカウントにサインインします
+![image](https://user-images.githubusercontent.com/44485074/135373058-bc360e52-dc1d-4ca1-a28e-823ea347ba3b.png)
+
