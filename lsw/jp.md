@@ -25,7 +25,7 @@
 
 ### 設定画面
 - 利用するネットワークやエクスプローラの設定ができます
-![image](https://user-images.githubusercontent.com/44485074/135387665-91887f95-76ba-4b4c-9b80-f170a752cd68.png)
+![image](https://user-images.githubusercontent.com/44485074/135420295-df25b75e-bbfe-491b-952e-988d931d8356.png)
 
 ### アカウント情報画面
 - サインインしたアカウントの情報が確認できます
