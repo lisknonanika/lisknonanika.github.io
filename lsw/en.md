@@ -16,7 +16,7 @@
 
 ### History
 - A list of accounts that you have signed in to will be displayed.
-![image](https://user-images.githubusercontent.com/44485074/135393482-de4a0745-e731-4810-96d0-66edb91588ae.png)
+![image](https://user-images.githubusercontent.com/44485074/135437571-80af5cb2-8787-4680-afd0-14ab694c52e1.png)
 
 ### Sign multisignature
 - You can enter a transaction string that requires multisignatures and start the multisignature process.
