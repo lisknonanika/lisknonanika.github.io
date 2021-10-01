@@ -12,6 +12,10 @@ This App can do the following
 - Recipient bookmark
 - SignIn history
 
+## Download
+- [iOS](https://testflight.apple.com/join/rpCEo9dy)
+- [android](https://github.com/lisknonanika/lisk-simple-wallet/releases)
+
 ## Documents
 - [User guide - 日本語](https://lisknonanika.github.io/lsw/jp)
 - [User guide - English](https://lisknonanika.github.io/lsw/en)
