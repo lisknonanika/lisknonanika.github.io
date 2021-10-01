@@ -1,8 +1,8 @@
 # Lisk Simple Wallet
 ![icon-76-2x](https://user-images.githubusercontent.com/44485074/135409958-07621128-45a1-4554-afe4-5190e533aaa4.png)
 
-## About this app.
-Lisk is an unofficial mobile wallet.<br/>
+## About this app
+Unofficial Lisk mobile wallet.<br/>
 It is a simple wallet application that allows you to operate without switching accounts, even in the case of multi-signature.
 
 This App can do the following
