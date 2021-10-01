@@ -30,7 +30,7 @@ This App can do the following
 - github: [lisk-simple-wallet](https://github.com/lisknonanika/lisk-simple-wallet)
 
 ## Note
-As this is an unofficial Lisk wallet, please do not contact the official Lisk office.<br/>
+As this is an unofficial Lisk wallet, please do not contact the LiskHQ.<br/>
 Also, we are not responsible for any problems that may occur when using the application (including problems caused by defects in the application).
 
 ## Modification and redistribution of the application
